@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\RoomLibraryZarubin\RoomLibraryZarubin\bin\Debug\RoomLibraryZarubin.dll
+C:\Users\student\Desktop\RoomLibraryZarubin\RoomLibraryZarubin\bin\Debug\RoomLibraryZarubin.pdb
+C:\Users\student\Desktop\RoomLibraryZarubin\RoomLibraryZarubin\obj\Debug\RoomLibraryZarubin.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\RoomLibraryZarubin\RoomLibraryZarubin\obj\Debug\RoomLibraryZarubin.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\RoomLibraryZarubin\RoomLibraryZarubin\obj\Debug\RoomLibraryZarubin.dll
+C:\Users\student\Desktop\RoomLibraryZarubin\RoomLibraryZarubin\obj\Debug\RoomLibraryZarubin.pdb
