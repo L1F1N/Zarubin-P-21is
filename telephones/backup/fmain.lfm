@@ -1,0 +1,8 @@
+object Form1: TForm1
+  Left = 250
+  Height = 303
+  Top = 133
+  Width = 809
+  Caption = 'Телефонный справочник'
+  LCLVersion = '2.2.6.0'
+end
